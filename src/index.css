@@ -50,7 +50,7 @@ header.flex-row{
 /* Form styles */
 
 .memeForm{
-  width: 80%;
+  width: 60%;
   height: 200px;
   max-width: 1600px;
   margin: auto;
@@ -71,4 +71,11 @@ input{
   padding: 1em;
   border-radius: .5em;
   border: 1px solid gray;
+}
+
+.submitForm{
+  width: 100%;
+  padding: 1em 0;
+  border-radius: .5em;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
 }
