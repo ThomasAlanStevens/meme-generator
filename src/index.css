@@ -35,3 +35,14 @@ code {
 }
 
 /* Header Styles */
+
+header.flex-row{
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  color: white;
+  gap: 1em;
+  padding: 1em 2em;
+}
+
+.headerTitle{
+  margin-right: auto;
+}
